@@ -1,0 +1,88 @@
+{
+<<<<<<< HEAD
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "FFCA43625D139F56F22EAE18949E26C79F07D195+++4CF72BA",
+=======
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "FFCA43625D139F56F22EAE18949E26C79F07D195+++123BE05",
+>>>>>>> 7c3c78477e512b95f0686c96e7c4d9a438faa56e
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "FFCA43625D139F56F22EAE18949E26C79F07D195+++0F99A90" : {
+
+    },
+    "FFCA43625D139F56F22EAE18949E26C79F07D195+++123BE05" : {
+
+    },
+    "FFCA43625D139F56F22EAE18949E26C79F07D195+++957E38F" : {
+
+    },
+    "FFCA43625D139F56F22EAE18949E26C79F07D195+++C482A1A" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "FFCA43625D139F56F22EAE18949E26C79F07D195+++2970DFB" : 0,
+<<<<<<< HEAD
+    "FFCA43625D139F56F22EAE18949E26C79F07D195+++4CF72BA" : 9223372036854775807,
+    "FFCA43625D139F56F22EAE18949E26C79F07D195+++C482A1A" : 0,
+=======
+    "FFCA43625D139F56F22EAE18949E26C79F07D195+++0F99A90" : 0,
+    "FFCA43625D139F56F22EAE18949E26C79F07D195+++D0EB31C" : 0,
+    "FFCA43625D139F56F22EAE18949E26C79F07D195+++123BE05" : 0,
+>>>>>>> 7c3c78477e512b95f0686c96e7c4d9a438faa56e
+    "FFCA43625D139F56F22EAE18949E26C79F07D195+++957E38F" : 0,
+    "FFCA43625D139F56F22EAE18949E26C79F07D195+++C482A1A" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "EF05A102-2DD9-48C4-A5FB-AB85217C8626",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "FFCA43625D139F56F22EAE18949E26C79F07D195+++2970DFB" : "%E6%9C%89%E6%95%B0%E6%9C%80%E6%96%B0\/",
+<<<<<<< HEAD
+    "FFCA43625D139F56F22EAE18949E26C79F07D195+++4CF72BA" : "YouShu_iOS\/",
+    "FFCA43625D139F56F22EAE18949E26C79F07D195+++C482A1A" : "USee_iOS_V2\/",
+=======
+    "FFCA43625D139F56F22EAE18949E26C79F07D195+++0F99A90" : "USee_iOS_V2\/",
+    "FFCA43625D139F56F22EAE18949E26C79F07D195+++D0EB31C" : "YouShu_iOS\/",
+    "FFCA43625D139F56F22EAE18949E26C79F07D195+++123BE05" : "YouShu_iOS\/",
+>>>>>>> 7c3c78477e512b95f0686c96e7c4d9a438faa56e
+    "FFCA43625D139F56F22EAE18949E26C79F07D195+++957E38F" : "%E6%9C%89%E6%95%B0%E6%9C%80%E6%96%B0\/",
+    "FFCA43625D139F56F22EAE18949E26C79F07D195+++C482A1A" : "USee_iOS_V2\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "LOSBi",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "LOSBi.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/git.oschina.net\/bizdev\/USee_iOS_V2.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "FFCA43625D139F56F22EAE18949E26C79F07D195+++0F99A90"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/lostech.com.cn\/LOSBi",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "FFCA43625D139F56F22EAE18949E26C79F07D195+++123BE05"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/git.oschina.net\/bizdev\/USee_iOS_V2.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "FFCA43625D139F56F22EAE18949E26C79F07D195+++2970DFB"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/git.i-xoron.com\/YouShu_iOS.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "FFCA43625D139F56F22EAE18949E26C79F07D195+++4CF72BA"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/lostech.com.cn\/LOSBi",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "FFCA43625D139F56F22EAE18949E26C79F07D195+++957E38F"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/lostech.com.cn\/LOSBi",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "FFCA43625D139F56F22EAE18949E26C79F07D195+++C482A1A"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/git.i-xoron.com\/YouShu_iOS.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "FFCA43625D139F56F22EAE18949E26C79F07D195+++D0EB31C"
+    }
+  ]
+}

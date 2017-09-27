@@ -1,0 +1,52 @@
+//
+//  PrefixHeader.pch
+//  LOSBi
+//
+//  Created by gufeifei on 16/8/8.
+//  Copyright © 2016年 L.O.S. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#import "Define.h"
+#import "UIColor+LOSHexColor.h"
+#import "UIView+Extension.h"
+#import "CommonTools.h"
+#import "UIImageView+WebCache.h"
+#import "UIButton+WebCache.h"
+#import "MBProgressHUD.h"
+#import "AppDelegate.h"
+#import "HUDHelper.h"
+#import "Reachability.h"
+#import "LOSAFNetworking.h"
+#import "RequestInterfceViewController.h"
+#import "MJRefresh.h"
+#import "BigBtnView.h"
+#import "LOConst.h"
+#import "MainPageDayDetailViewController-0004.h"
+#import "TwoAnimationView.h"
+#import "BaseWebViewViewController.h"
+#import "DetailViewController.h"
+#import "BigAndTimeView.h"
+
+#import <JavaScriptCore/JavaScriptCore.h>
+
+#pragma mark 社区链接
+//#define formalSheQu_Html5 @"http://4.app.bizvane.com:9990/useeApp/index.html"
+
+#define formalSheQu_Html5 @"http://1.dev.bizvane.com:9990/useeApp/index.html"
+
+#pragma mark 爱秀社区网页
+//#define formalSheQu_Html5 @"http://1.dev.bizvane.com:9990/shequ2/ishowApp/index.html"
+
+#define SystemVersion ([UIDevice currentDevice].systemVersion.floatValue)//获取当前系统的版本
+#define DeviceName [UIDevice currentDevice].name  //获取设备所有者的名称
+#define iShowUUIDString [[[UIDevice currentDevice] identifierForVendor] UUIDString]  //获取设备唯一标识符
+#define SystemName [UIDevice currentDevice].systemName //获取当前运行的系统
+
+
+#endif /* PrefixHeader_pch */
